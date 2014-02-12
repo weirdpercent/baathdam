@@ -1,0 +1,414 @@
+{
+  "connected_users": [
+    {
+      "name": "scalarwaves",
+      "username": "scalarwaves"
+    },
+    {
+      "name": "Marvin Alejandro Herrera Vizuett",
+      "username": "marvinahv"
+    },
+    {
+      "name": "notconscious media",
+      "username": "notconscious"
+    },
+    {
+      "name": "Kenichi Kamiya",
+      "username": "kachick"
+    },
+    {
+      "name": "James Tunnell",
+      "username": "jamestunnell"
+    }
+  ],
+  "gravatar": "f2455486a9cf06dbe87d78405ab73eef",
+  "name": "Drew Prentice",
+  "repositories": [
+    {
+      "count": 99,
+      "repo": "weirdpercent/reparcs-nigulp"
+    },
+    {
+      "count": 33,
+      "repo": "weirdpercent/splus"
+    },
+    {
+      "count": 19,
+      "repo": "weirdpercent/sliar-no-snigulp"
+    },
+    {
+      "count": 11,
+      "repo": "weirdpercent/unknown-mime"
+    },
+    {
+      "count": 7,
+      "repo": "rivsc/Beautiful-Scaffold"
+    }
+  ],
+  "similar_users": [
+    {
+      "name": "Katherine G. Pe",
+      "username": "katgironpe"
+    },
+    {
+      "name": "Gray Manley",
+      "username": "gmanley"
+    },
+    {
+      "name": "Edgar Wang",
+      "username": "edgarwang"
+    },
+    {
+      "name": "checkraiser",
+      "username": "checkraiser"
+    },
+    {
+      "name": "Ryota Arai",
+      "username": "ryotarai"
+    }
+  ],
+  "timezone": -5,
+  "usage": {
+    "day": [
+      8,
+      5,
+      2,
+      1,
+      6,
+      5,
+      19,
+      17,
+      18,
+      61,
+      48,
+      106,
+      42,
+      34,
+      48,
+      31,
+      20,
+      37,
+      46,
+      26,
+      35,
+      9,
+      35,
+      15
+    ],
+    "events": [
+      {
+        "day": [
+          2,
+          1,
+          0,
+          0,
+          0,
+          2,
+          16,
+          7,
+          13,
+          30,
+          13,
+          66,
+          23,
+          7,
+          13,
+          13,
+          8,
+          11,
+          13,
+          18,
+          24,
+          2,
+          18,
+          7
+        ],
+        "total": 307,
+        "type": "WatchEvent",
+        "week": [
+          48,
+          20,
+          25,
+          53,
+          44,
+          21,
+          96
+        ]
+      },
+      {
+        "day": [
+          2,
+          2,
+          2,
+          1,
+          6,
+          0,
+          0,
+          2,
+          1,
+          23,
+          14,
+          25,
+          14,
+          7,
+          14,
+          4,
+          3,
+          12,
+          23,
+          5,
+          5,
+          5,
+          7,
+          6
+        ],
+        "total": 183,
+        "type": "PushEvent",
+        "week": [
+          65,
+          30,
+          24,
+          18,
+          11,
+          23,
+          12
+        ]
+      },
+      {
+        "day": [
+          2,
+          1,
+          0,
+          0,
+          0,
+          3,
+          2,
+          3,
+          1,
+          2,
+          19,
+          2,
+          1,
+          18,
+          18,
+          12,
+          8,
+          11,
+          9,
+          3,
+          5,
+          1,
+          4,
+          1
+        ],
+        "total": 126,
+        "type": "ForkEvent",
+        "week": [
+          11,
+          25,
+          52,
+          11,
+          5,
+          5,
+          17
+        ]
+      },
+      {
+        "day": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          4,
+          2,
+          10,
+          0,
+          2,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1
+        ],
+        "total": 28,
+        "type": "CreateEvent",
+        "week": [
+          8,
+          1,
+          1,
+          0,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "day": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          1,
+          1,
+          0,
+          2,
+          3,
+          0,
+          2,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0
+        ],
+        "total": 19,
+        "type": "FollowEvent",
+        "week": [
+          4,
+          3,
+          4,
+          3,
+          0,
+          2,
+          3
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "count": 341,
+        "language": "Ruby",
+        "quantile": 74
+      },
+      {
+        "count": 40,
+        "language": "JavaScript",
+        "quantile": 100
+      },
+      {
+        "count": 34,
+        "language": "C++",
+        "quantile": 100
+      },
+      {
+        "count": 32,
+        "language": "Clojure",
+        "quantile": 100
+      },
+      {
+        "count": 20,
+        "language": "C",
+        "quantile": 100
+      },
+      {
+        "count": 17,
+        "language": "Emacs Lisp",
+        "quantile": 100
+      },
+      {
+        "count": 16,
+        "language": "Java",
+        "quantile": 100
+      },
+      {
+        "count": 10,
+        "language": "Python",
+        "quantile": 100
+      },
+      {
+        "count": 8,
+        "language": "Shell",
+        "quantile": 100
+      },
+      {
+        "count": 6,
+        "language": "Erlang",
+        "quantile": 100
+      },
+      {
+        "count": 3,
+        "language": "Processing",
+        "quantile": 100
+      },
+      {
+        "count": 3,
+        "language": "Perl",
+        "quantile": 100
+      },
+      {
+        "count": 3,
+        "language": "C#",
+        "quantile": 100
+      },
+      {
+        "count": 2,
+        "language": "SuperCollider",
+        "quantile": 100
+      },
+      {
+        "count": 2,
+        "language": "Scala",
+        "quantile": 100
+      },
+      {
+        "count": 2,
+        "language": "Objective-C",
+        "quantile": 100
+      },
+      {
+        "count": 2,
+        "language": "Elixir",
+        "quantile": 100
+      },
+      {
+        "count": 2,
+        "language": "CoffeeScript",
+        "quantile": 100
+      },
+      {
+        "count": 1,
+        "language": "Mirah",
+        "quantile": 100
+      },
+      {
+        "count": 1,
+        "language": "Groovy",
+        "quantile": 100
+      },
+      {
+        "count": 1,
+        "language": "ActionScript",
+        "quantile": 100
+      }
+    ],
+    "total": 674,
+    "week": [
+      138,
+      84,
+      109,
+      85,
+      66,
+      58,
+      134
+    ]
+  },
+  "username": "weirdpercent"
+}
