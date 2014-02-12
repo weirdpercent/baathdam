@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem 'bundler'
 gem 'coveralls', require: false
 gem 'multi_json'
+gem 'pry'
 gem 'rake'
 
 group :development do
